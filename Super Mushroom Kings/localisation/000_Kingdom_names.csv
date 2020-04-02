@@ -1,3 +1,139 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-k_kingdom;Kingdom;Kingdom;Kingdom;;Kingdom;;;;;;;;;x
-k_kingdom_adj;Kingdomian;;kingdomer;;;;;;;;;;;x
+k_battle_land;Battle Land;Battle Land;Battle Land;;Battle Land;;;;;;;;;x
+k_battle_land_adj;Battle Landian;;Battle Lander;;;;;;;;;;;x
+k_beanbean_kingdom;Beanbean Kingdom;Beanbean Kingdom;Beanbean Kingdom;;Beanbean Kingdom;;;;;;;;;x
+k_beanbean_kingdom_adj;Beanbean Kingdomian;;Beanbean Kingdomer;;;;;;;;;;;x
+k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
+k_birabuto_adj;Birabutian;;birabuter;;;;;;;;;;;x
+k_blubble_lake;Blubble Lake;Blubble Lake;Blubble Lake;;Blubble Lake;;;;;;;;;x
+k_blubble_lake_adj;Blubble Lakean;;Blubble Laker;;;;;;;;;;;x
+k_canyon_sprixieland;Canyon Sprixieland;Canyon Sprixieland;Canyon Sprixieland;;Canyon Sprixieland;;;;;;;;;x
+k_canyon_sprixieland_adj;Canyon Sprixielandian;;Canyon Sprixielander;;;;;;;;;;;x
+k_chai;Chai;Chai;Chai;;Chai;;;;;;;;;x
+k_chai_adj;Chian;;cher;;;;;;;;;;;x
+k_cloud_sprixieland;Cloud Sprixieland;Cloud Sprixieland;Cloud Sprixieland;;Cloud Sprixieland;;;;;;;;;x
+k_cloud_sprixieland_adj;Cloud Sprixielandian;;Cloud Sprixielander;;;;;;;;;;;x
+k_crab_islands;Crab Islands;Crab Islands;Crab Islands;;Crab Islands;;;;;;;;;x
+k_crab_islands_adj;Crab Islandsian;;Crab Islandser;;;;;;;;;;;x
+k_cramalot;Cramalot;Cramalot;Cramalot;;Cramalot;;;;;;;;;x
+k_cramalot_adj;Cramalotian;;cramaloter;;;;;;;;;;;x
+k_crocodile_isle;Crocodile Isle;Crocodile Isle;Crocodile Isle;;Crocodile Isle;;;;;;;;;x
+k_crocodile_isle_adj;Crocodile Islean;;Crocodile Isler;;;;;;;;;;;x
+k_crystalia;Crystalia;Crystalia;Crystalia;;Crystalia;;;;;;;;;x
+k_crystalia_adj;Crystalian;;crystaler;;;;;;;;;;;x
+k_dark_land;Dark Land;Dark Land;Dark Land;;Dark Land;;;;;;;;;x
+k_dark_land_adj;Dark Landian;;Dark Lander;;;;;;;;;;;x
+k_desert_land;Desert Land;Desert Land;Desert Land;;Desert Land;;;;;;;;;x
+k_desert_land_adj;Desert Landian;;Desert Lander;;;;;;;;;;;x
+k_desert_sprixieland;Desert Sprixieland;Desert Sprixieland;Desert Sprixieland;;Desert Sprixieland;;;;;;;;;x
+k_desert_sprixieland_adj;Desert Sprixielandian;;Desert Sprixielander;;;;;;;;;;;x
+k_diamond_land;Diamond Land;Diamond Land;Diamond Land;;Diamond Land;;;;;;;;;x
+k_diamond_land_adj;Diamond Landian;;Diamond Lander;;;;;;;;;;;x
+k_dinosaur_island;Dinosaur Island;Dinosaur Island;Dinosaur Island;;Dinosaur Island;;;;;;;;;x
+k_dinosaur_island_adj;Dinosaur Islandian;;Dinosaur Islander;;;;;;;;;;;x
+k_dry_dry_desert;Dry Dry Desert;Dry Dry Desert;Dry Dry Desert;;Dry Dry Desert;;;;;;;;;x
+k_dry_dry_desert_adj;Dry Dry Desertian;;Dry Dry Deserter;;;;;;;;;;;x
+k_easton;Easton;Easton;Easton;;Easton;;;;;;;;;x
+k_easton_adj;Eastonian;;eastoner;;;;;;;;;;;x
+k_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
+k_eel_islands_adj;Eel Islandsian;;Eel Islandser;;;;;;;;;;;x
+k_fish_islands;Fish Islands;Fish Islands;Fish Islands;;Fish Islands;;;;;;;;;x
+k_fish_islands_adj;Fish Islandsian;;Fish Islandser;;;;;;;;;;;x
+k_fruit_islands;Fruit Islands;Fruit Islands;Fruit Islands;;Fruit Islands;;;;;;;;;x
+k_fruit_islands_adj;Fruit Islandsian;;Fruit Islandser;;;;;;;;;;;x
+k_giant_land;Giant Land;Giant Land;Giant Land;;Giant Land;;;;;;;;;x
+k_giant_land_adj;Giant Landian;;Giant Lander;;;;;;;;;;;x
+k_golden_silence;Golden Silence;Golden Silence;Golden Silence;;Golden Silence;;;;;;;;;x
+k_golden_silence_adj;Golden Silencean;;Golden Silencer;;;;;;;;;;;x
+k_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
+k_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
+k_happy_land;Happy land;Happy land;Happy land;;Happy land;;;;;;;;;x
+k_happy_land_adj;Happy landian;;Happy lander;;;;;;;;;;;x
+k_hyperborea;Hyperborea;Hyperborea;Hyperborea;;Hyperborea;;;;;;;;;x
+k_hyperborea_adj;Hyperborean;;hyperborer;;;;;;;;;;;x
+k_ice_land;Ice Land;Ice Land;Ice Land;;Ice Land;;;;;;;;;x
+k_ice_land_adj;Ice Landian;;Ice Lander;;;;;;;;;;;x
+k_isle_delfino;Isle Delfino;Isle Delfino;Isle Delfino;;Isle Delfino;;;;;;;;;x
+k_isle_delfino_adj;Isle Delfinian;;Isle Delfiner;;;;;;;;;;;x
+k_jellyfish_island;Jellyfish Island;Jellyfish Island;Jellyfish Island;;Jellyfish Island;;;;;;;;;x
+k_jellyfish_island_adj;Jellyfish Islandian;;Jellyfish Islander;;;;;;;;;;;x
+k_jewelry_land;Jewelry Land;Jewelry Land;Jewelry Land;;Jewelry Land;;;;;;;;;x
+k_jewelry_land_adj;Jewelry Landian;;Jewelry Lander;;;;;;;;;;;x
+k_kitchen_island;Kitchen Island;Kitchen Island;Kitchen Island;;Kitchen Island;;;;;;;;;x
+k_kitchen_island_adj;Kitchen Islandian;;Kitchen Islander;;;;;;;;;;;x
+k_kong_isle;Kong Isle;Kong Isle;Kong Isle;;Kong Isle;;;;;;;;;x
+k_kong_isle_adj;Kong Islean;;Kong Isler;;;;;;;;;;;x
+k_lands_end;Land's End;Land's End;Land's End;;Land's End;;;;;;;;;x
+k_lands_end_adj;Lands Endian;;Land's Ender;;;;;;;;;;;x
+k_lavalava_island;Lavalava Island;Lavalava Island;Lavalava Island;;Lavalava Island;;;;;;;;;x
+k_lavalava_island_adj;Lavalava Islandian;;Lavalava Islander;;;;;;;;;;;x
+k_linguine_land;Linguine Land;Linguine Land;Linguine Land;;Linguine Land;;;;;;;;;x
+k_linguine_land_adj;Linguine Landian;;Linguine Lander;;;;;;;;;;;x
+k_mario_land;Mario Land;Mario Land;Mario Land;;Mario Land;;;;;;;;;x
+k_mario_land_adj;Mario Landian;;Mario Lander;;;;;;;;;;;x
+k_meadow_sprixieland;Meadow Sprixieland;Meadow Sprixieland;Meadow Sprixieland;;Meadow Sprixieland;;;;;;;;;x
+k_meadow_sprixieland_adj;Meadow Sprixielandian;;Meadow Sprixielander;;;;;;;;;;;x
+k_mole_mountains;Mole Mountains;Mole Mountains;Mole Mountains;;Mole Mountains;;;;;;;;;x
+k_mole_mountains_adj;Mole Mountainsian;;Mole Mountainser;;;;;;;;;;;x
+k_muda;Muda;Muda;Muda;;Muda;;;;;;;;;x
+k_muda_adj;Mudan;;muder;;;;;;;;;;;x
+k_mushroom_cape;Mushroom Cape;Mushroom Cape;Mushroom Cape;;Mushroom Cape;;;;;;;;;x
+k_mushroom_cape_adj;Mushroom Capean;;Mushroom Caper;;;;;;;;;;;x
+k_mushroomland;Mushroomland;Mushroomland;Mushroomland;;Mushroomland;;;;;;;;;x
+k_mushroomland_adj;Mushroomlandian;;mushroomlander;;;;;;;;;;;x
+k_new_mushroomland;New Mushroomland;New Mushroomland;New Mushroomland;;New Mushroomland;;;;;;;;;x
+k_new_mushroomland_adj;New Mushroomlandian;;New Mushroomlander;;;;;;;;;;;x
+k_nimbus_land;Nimbus Land;Nimbus Land;Nimbus Land;;Nimbus Land;;;;;;;;;x
+k_nimbus_land_adj;Nimbus Landian;;Nimbus Lander;;;;;;;;;;;x
+k_northern_kremisphere;Northern Kremisphere;Northern Kremisphere;Northern Kremisphere;;Northern Kremisphere;;;;;;;;;x
+k_northern_kremisphere_adj;Northern Kremispherean;;Northern Kremispherer;;;;;;;;;;;x
+k_piillo_island;Pi'illo Island;Pi'illo Island;Pi'illo Island;;Pi'illo Island;;;;;;;;;x
+k_piillo_island_adj;Pi'illo Islandian;;Pi'illo Islander;;;;;;;;;;;x
+k_pipe_land;Pipe Land;Pipe Land;Pipe Land;;Pipe Land;;;;;;;;;x
+k_pipe_land_adj;Pipe Landian;;Pipe Lander;;;;;;;;;;;x
+k_river_world;River World;River World;River World;;River World;;;;;;;;;x
+k_river_world_adj;River Worldian;;River Worlder;;;;;;;;;;;x
+k_rogueport;Rogueport;Rogueport;Rogueport;;Rogueport;;;;;;;;;x
+k_rogueport_adj;Rogueportian;;rogueporter;;;;;;;;;;;x
+k_rotunda_land;Rotunda Land;Rotunda Land;Rotunda Land;;Rotunda Land;;;;;;;;;x
+k_rotunda_land_adj;Rotunda Landian;;Rotunda Lander;;;;;;;;;;;x
+k_seaside;Seaside;Seaside;Seaside;;Seaside;;;;;;;;;x
+k_seaside_adj;Seasidean;;seasider;;;;;;;;;;;x
+k_shiver_land;Shiver Land;Shiver Land;Shiver Land;;Shiver Land;;;;;;;;;x
+k_shiver_land_adj;Shiver Landian;;Shiver Lander;;;;;;;;;;;x
+k_sky_land;Sky Land;Sky Land;Sky Land;;Sky Land;;;;;;;;;x
+k_sky_land_adj;Sky Landian;;Sky Lander;;;;;;;;;;;x
+k_snow_sprixieland;Snow Sprixieland;Snow Sprixieland;Snow Sprixieland;;Snow Sprixieland;;;;;;;;;x
+k_snow_sprixieland_adj;Snow Sprixielandian;;Snow Sprixielander;;;;;;;;;;;x
+k_spectralvania;Spectralvania;Spectralvania;Spectralvania;;Spectralvania;;;;;;;;;x
+k_spectralvania_adj;Spectralvanian;;spectralvaner;;;;;;;;;;;x
+k_superstar;Superstar;Superstar;Superstar;;Superstar;;;;;;;;;x
+k_superstar_adj;Superstarian;;superstarer;;;;;;;;;;;x
+k_tadpole_pond;Tadpole Pond;Tadpole Pond;Tadpole Pond;;Tadpole Pond;;;;;;;;;x
+k_tadpole_pond_adj;Tadpole Pondian;;Tadpole Ponder;;;;;;;;;;;x
+k_the_gate;The Gate;The Gate;The Gate;;The Gate;;;;;;;;;x
+k_the_gate_adj;The Gatean;;The Gater;;;;;;;;;;;x
+k_the_wild_west;The Wild West;The Wild West;The Wild West;;The Wild West;;;;;;;;;x
+k_the_wild_west_adj;The Wild Westian;;The Wild Wester;;;;;;;;;;;x
+k_timber_island;Timber Island;Timber Island;Timber Island;;Timber Island;;;;;;;;;x
+k_timber_island_adj;Timber Islandian;;Timber Islander;;;;;;;;;;;x
+k_toadwood_forest;Toadwood Forest;Toadwood Forest;Toadwood Forest;;Toadwood Forest;;;;;;;;;x
+k_toadwood_forest_adj;Toadwood Forestian;;Toadwood Forester;;;;;;;;;;;x
+k_tropical_freeze_islands;Tropical Freeze Islands;Tropical Freeze Islands;Tropical Freeze Islands;;Tropical Freeze Islands;;;;;;;;;x
+k_tropical_freeze_islands_adj;Tropical Freeze Islandsian;;Tropical Freeze Islandser;;;;;;;;;;;x
+k_turtle_islands;Turtle Islands;Turtle Islands;Turtle Islands;;Turtle Islands;;;;;;;;;x
+k_turtle_islands_adj;Turtle Islandsian;;Turtle Islandser;;;;;;;;;;;x
+k_twilight_zone;Twilight Zone;Twilight Zone;Twilight Zone;;Twilight Zone;;;;;;;;;x
+k_twilight_zone_adj;Twilight Zonean;;Twilight Zoner;;;;;;;;;;;x
+k_vibe_island;Vibe Island;Vibe Island;Vibe Island;;Vibe Island;;;;;;;;;x
+k_vibe_island_adj;Vibe Islandian;;Vibe Islander;;;;;;;;;;;x
+k_warios_island;Wario's Island;Wario's Island;Wario's Island;;Wario's Island;;;;;;;;;x
+k_warios_island_adj;Warios Islandian;;Wario's Islander;;;;;;;;;;;x
+k_water_land;Water Land;Water Land;Water Land;;Water Land;;;;;;;;;x
+k_water_land_adj;Water Landian;;Water Lander;;;;;;;;;;;x
+k_wiggler_land;Wiggler Land;Wiggler Land;Wiggler Land;;Wiggler Land;;;;;;;;;x
+k_wiggler_land_adj;Wiggler Landian;;Wiggler Lander;;;;;;;;;;;x
+k_yoshis_new_island;Yoshi's New Island;Yoshi's New Island;Yoshi's New Island;;Yoshi's New Island;;;;;;;;;x
+k_yoshis_new_island_adj;Yoshis New Islandian;;Yoshi's New Islander;;;;;;;;;;;x
+k_yoster_island;Yo'ster Island;Yo'ster Island;Yo'ster Island;;Yo'ster Island;;;;;;;;;x
+k_yoster_island_adj;Yoster Islandian;;Yo'ster Islander;;;;;;;;;;;x
