@@ -10,6 +10,6 @@ b_peek_a_boo_hill = castle
 
 # Misc
 culture = pirate
-religion = seveboolishn_stars
+religion = seven_stars
 terrain = hills
 #History

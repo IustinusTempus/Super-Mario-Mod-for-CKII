@@ -10,6 +10,6 @@ b_shifty_boo_mansion = castle
 
 # Misc
 culture = pirate
-religion = boolish
+religion = seven_stars
 terrain = arctic
 #History

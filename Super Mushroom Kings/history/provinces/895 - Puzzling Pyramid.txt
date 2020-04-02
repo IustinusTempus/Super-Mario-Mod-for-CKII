@@ -10,6 +10,6 @@ b_puzzling_pyramid = castle
 
 # Misc
 culture = kremling
-religion = kremling_religion
+religion = seven_stars
 
 #History

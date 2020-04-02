@@ -10,6 +10,6 @@ b_spiny_desert = castle
 
 # Misc
 culture = pirate
-religion = mario_party_genies_worship
+religion = seven_stars
 terrain = desert
 #History

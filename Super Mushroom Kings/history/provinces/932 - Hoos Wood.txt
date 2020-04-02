@@ -10,6 +10,6 @@ b_hoos_wood = castle
 
 # Misc
 culture = kongobongo
-religion = kong_religion
+religion = seven_stars
 terrain = woods
 #History

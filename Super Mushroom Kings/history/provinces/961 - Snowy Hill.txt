@@ -10,6 +10,6 @@ b_snowy_hill = castle
 
 # Misc
 culture = yoshi_island
-religion = happiness
+religion = seven_stars
 terrain = hills
 #History

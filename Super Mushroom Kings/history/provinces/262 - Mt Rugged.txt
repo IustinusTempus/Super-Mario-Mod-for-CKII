@@ -10,6 +10,6 @@ b_mt_rugged = castle
 
 # Misc
 culture = dryite
-religion = dryite_pagan
+religion = seven_stars
 terrain = mountain
 #History

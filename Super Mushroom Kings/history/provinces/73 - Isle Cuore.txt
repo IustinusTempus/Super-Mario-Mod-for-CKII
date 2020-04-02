@@ -10,6 +10,6 @@ b_isle_cuore = castle
 
 # Misc
 culture = turtle_islands
-religion = shine_sprites
+religion = seven_stars
 
 #History

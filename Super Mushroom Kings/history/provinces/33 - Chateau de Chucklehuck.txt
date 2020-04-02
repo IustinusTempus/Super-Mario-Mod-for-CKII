@@ -10,6 +10,6 @@ b_chateau_de_chucklehuck = castle
 
 # Misc
 culture = beanbean_kingdom
-religion = beanstar_faith
+religion = seven_stars
 terrain = woods
 #History

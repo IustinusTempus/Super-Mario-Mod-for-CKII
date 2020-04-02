@@ -10,6 +10,6 @@ b_corrazza_mountains = castle
 
 # Misc
 culture = crab_islands
-religion = shine_sprites
+religion = seven_stars
 terrain = mountain
 #History

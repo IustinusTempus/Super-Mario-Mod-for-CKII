@@ -10,6 +10,6 @@ b_delfino_plaza = castle
 
 # Misc
 culture = delfino
-religion = shine_sprites
+religion = seven_stars
 
 #History

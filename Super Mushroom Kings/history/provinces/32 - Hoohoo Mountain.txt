@@ -10,6 +10,6 @@ b_hoohoo_mountain = castle
 
 # Misc
 culture = hoohooligan
-religion = beanstar_faith
+religion = seven_stars
 terrain = mountain
 #History

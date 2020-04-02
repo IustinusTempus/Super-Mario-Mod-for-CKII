@@ -10,6 +10,6 @@ b_gritzy_caves = castle
 
 # Misc
 culture = dryite
-religion = dryite_pagan
+religion = seven_stars
 
 #History

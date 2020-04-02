@@ -10,6 +10,6 @@ b_madcap_mine = castle
 
 # Misc
 culture = kremling
-religion = kremling_religion
+religion = seven_stars
 terrain = mountain
 #History

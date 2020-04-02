@@ -10,6 +10,6 @@ b_western_land = castle
 
 # Misc
 culture = dryite
-religion = dryite_pagan
+religion = seven_stars
 
 #History

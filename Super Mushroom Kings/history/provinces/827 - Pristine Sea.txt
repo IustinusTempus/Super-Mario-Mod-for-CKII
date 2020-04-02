@@ -10,6 +10,6 @@ b_pristine_sea = castle
 
 # Misc
 culture = kongobongo
-religion = kong_religion
+religion = seven_stars
 
 #History

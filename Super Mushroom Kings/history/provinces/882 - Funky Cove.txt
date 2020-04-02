@@ -10,6 +10,6 @@ b_funky_cove = castle
 
 # Misc
 culture = kremling
-religion = kremling_religion
+religion = seven_stars
 
 #History

@@ -10,6 +10,6 @@ b_chimp_caverns = castle
 
 # Misc
 culture = kongobongo
-religion = kong_religion
+religion = seven_stars
 
 #History

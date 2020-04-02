@@ -10,6 +10,6 @@ b_forbidden_forest = castle
 
 # Misc
 culture = kremling
-religion = kremling_religion
+religion = seven_stars
 terrain = forest
 #History

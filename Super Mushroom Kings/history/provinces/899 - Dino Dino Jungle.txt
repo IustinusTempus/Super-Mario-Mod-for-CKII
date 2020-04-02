@@ -10,6 +10,6 @@ b_dino_dino_jungle = castle
 
 # Misc
 culture = kremling
-religion = kremling_religion
+religion = seven_stars
 terrain = jungle
 #History

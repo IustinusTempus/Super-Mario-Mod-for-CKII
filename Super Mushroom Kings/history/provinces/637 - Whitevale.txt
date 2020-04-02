@@ -10,6 +10,6 @@ b_whitevale = castle
 
 # Misc
 culture = twilighter
-religion = twilight_towner
+religion = seven_stars
 
 #History

@@ -10,6 +10,6 @@ b_dark_path = castle
 
 # Misc
 culture = pirate
-religion = boolish
+religion = seven_stars
 
 #History

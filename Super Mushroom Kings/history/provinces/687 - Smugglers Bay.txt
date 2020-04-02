@@ -10,6 +10,6 @@ b_smugglers_bay = castle
 
 # Misc
 culture = pirate
-religion = piracy
+religion = seven_stars
 
 #History

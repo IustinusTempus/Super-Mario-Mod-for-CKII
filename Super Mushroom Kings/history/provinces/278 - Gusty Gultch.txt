@@ -10,6 +10,6 @@ b_gusty_gultch = castle
 
 # Misc
 culture = pirate
-religion = boolish
+religion = seven_stars
 
 #History

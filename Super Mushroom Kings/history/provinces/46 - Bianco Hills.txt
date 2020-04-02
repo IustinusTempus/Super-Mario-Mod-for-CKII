@@ -10,6 +10,6 @@ b_bianco_hills = castle
 
 # Misc
 culture = delfino
-religion = shine_sprites
+religion = seven_stars
 terrain = hills
 #History
