@@ -63,7 +63,7 @@
 		add_trait = robust
 	}
 	1889.8.9 = {
-		add_spouse = 8501
+		add_spouse = 8504
 	}
 	1889.8.9 = {
 		death = {
