@@ -3708,7 +3708,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_trait_species_men"
-		texturefile = "gfx/traits/species/men.tga"
+		texturefile = "gfx/traits/species/human.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
@@ -3932,14 +3932,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_trait_species_eldritch_abomination"
-		texturefile = "gfx/traits/species/eldritch_abomination.tga"
+		texturefile = "gfx/traits/species/NightmareBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
 	}
 	spriteType = {
 		name = "GFX_trait_species_nimbus_cloud"
-		texturefile = "gfx/traits/species/nimbus_cloud.tga"
+		texturefile = "gfx/traits/species/nimbus.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
@@ -4135,14 +4135,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_trait_species_shadow_sister"
-		texturefile = "gfx/traits/species/shadow_sister.tga"
+		texturefile = "gfx/traits/species/ShadowBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
 	}
 	spriteType = {
 		name = "GFX_trait_species_shadow_clone"
-		texturefile = "gfx/traits/species/shadow_clone.tga"
+		texturefile = "gfx/traits/species/shadowclone.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
@@ -4156,7 +4156,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_trait_species_shark_generic"
-		texturefile = "gfx/traits/species/shark_generic.tga"
+		texturefile = "gfx/traits/species/SharkBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate_linear.lua"
