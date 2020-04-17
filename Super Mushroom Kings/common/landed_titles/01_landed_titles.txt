@@ -1,182 +1,18 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
-
-
-
 e_linguine_empire = {
 	color={ 215 201 155 }
 	color2={ 255 255 20 }
 	
 	capital = 300 # c_peaceful_warios_woods
-	culture = ouji_men
+	culture = diamond_city_men
 	
 	k_diamond_land = {
-		color={ 225 191 160 }
+		color={ 154 197 219 }
 		color2={ 255 255 255 }
 		
-		capital = 300 # c_peaceful_warios_woods
-		culture = ouji_men
+		capital = 311 # c_diamond_city
+		culture = diamond_city_men
 		
-		c_peaceful_warios_woods = { # 300
-			color={ 255 161 175 }
-			color2={ 255 255 255 }
-			
-			b_peaceful_warios_woods = {
-			}
-		}
-		c_balloon_bridge = { # 308
-			color={ 255 231 175 }
-			color2={ 255 255 255 }
-			
-			b_balloon_bridge = {
-			}
-		}
-		c_baseball_plaza = { # 956
-			color={ 255 0 114 }
-			color2={ 255 255 255 }
-			
-			b_baseball_plaza = {
-			}
-		}
-		c_beanstalk_way = { # 317
-			color={ 255 82 175 }
-			color2={ 255 255 255 }
-			
-			b_beanstalk_way = {
-			}
-		}
-		c_bowser_jr_castle = { # 958
-			color={ 255 20 114 }
-			color2={ 255 255 255 }
-			
-			b_bowser_jr_castle = {
-			}
-		}
-		c_cheep_cheep_waters = { # 307
-			color={ 255 221 175 }
-			color2={ 255 255 255 }
-			
-			b_cheep_cheep_waters = {
-			}
-		}
-		c_crime_land = { # 392
-			color={ 255 144 175 }
-			color2={ 255 255 255 }
-			
-			b_crime_land = {
-			}
-		}
-		c_diamond_city = { # 311
-			color={ 255 2 175 }
-			color2={ 255 255 255 }
-			
-			b_diamond_city = {
-			}
-		}
-		c_dk_stadium = { # 957
-			color={ 255 10 114 }
-			color2={ 255 255 255 }
-			
-			b_dk_stadium = {
-			}
-		}
-		c_fairys_forest = { # 302
-			color={ 255 181 175 }
-			color2={ 255 255 255 }
-			
-			b_fairys_forest = {
-			}
-		}
-		c_fire_mountain = { # 387
-			color={ 255 94 175 }
-			color2={ 255 255 255 }
-			
-			b_fire_mountain = {
-			}
-		}
-		c_greenhorn_forest = { # 313
-			color={ 255 42 175 }
-			color2={ 255 255 255 }
-			
-			b_greenhorn_forest = {
-			}
-		}
-		c_greenhorn_ruins = { # 314
-			color={ 255 52 175 }
-			color2={ 255 255 255 }
-			
-			b_greenhorn_ruins = {
-			}
-		}
-		c_horror_manor = { # 315
-			color={ 255 62 175 }
-			color2={ 255 255 255 }
-			
-			b_horror_manor = {
-			}
-		}
-		c_lakeside_park = { # 368
-			color={ 255 113 175 }
-			color2={ 255 255 255 }
-			
-			b_lakeside_park = {
-			}
-		}
-		c_magma_mine = { # 346
-			color={ 255 152 175 }
-			color2={ 255 255 255 }
-			
-			b_magma_mine = {
-			}
-		}
-		c_mirror_mansion = { # 318
-			color={ 255 92 175 }
-			color2={ 255 255 255 }
-			
-			b_mirror_mansion = {
-			}
-		}
-		c_peachs_stadium = { # 959
-			color={ 255 30 114 }
-			color2={ 255 255 255 }
-			
-			b_peachs_stadium = {
-			}
-		}
-		c_temple_of_form = { # 312
-			color={ 255 32 175 }
-			color2={ 255 255 255 }
-			
-			b_temple_of_form = {
-			}
-		}
-		c_warios_garden = { # 309
-			color={ 255 241 175 }
-			color2={ 255 255 255 }
-			
-			b_warios_garden = {
-			}
-		}
-		c_warios_house = { # 310
-			color={ 255 251 175 }
-			color2={ 255 255 255 }
-			
-			b_warios_house = {
-			}
-		}
-		c_wonky_circus = { # 316
-			color={ 255 72 175 }
-			color2={ 255 255 255 }
-			
-			b_wonky_circus = {
-			}
-		}
-		c_yosu_lake = { # 303
-			color={ 255 191 175 }
-			color2={ 255 255 255 }
-			
-			b_yosu_lake = {
-			}
-		}
 		d_yosu_lake = {
 			color={ 245 171 170 }
 			color2={ 255 255 255 }
@@ -314,7 +150,7 @@ e_linguine_empire = {
 			}
 		}
 		d_diamond_bay = {
-			color={ 245 5 170 }
+			color={ 184 216 231 }
 			color2={ 255 255 255 }
 			
 			allow = {
@@ -323,7 +159,7 @@ e_linguine_empire = {
 					any_demesne_province = { OR = { province_id = 310 province_id = 311 province_id = 312 } }
 				}
 			}
-			capital = 310 # c_warios_house
+			capital = 311 # c_diamond_city
 			
 			c_warios_house = { # 310
 				color={ 255 251 175 }
@@ -333,7 +169,7 @@ e_linguine_empire = {
 				}
 			}
 			c_diamond_city = { # 311
-				color={ 255 2 175 }
+				color={ 203 227 240 }
 				color2={ 255 255 255 }
 				
 				b_diamond_city = {
