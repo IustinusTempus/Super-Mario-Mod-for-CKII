@@ -579,8 +579,6 @@ species_bully = { # Bully
 	learning = -6 # Dumb as rocks, simply get pushed into lava
 	health = 6
 
-	priest = yes # Bullies are not actually clergymen, but this tag allows any Bully to serve on the Council as a Spiritual Advisor, so that the AI won't be without one because all the normal qualifiers aren't met
-
 	general_opinion = -30
 	same_opinion = 80
 
