@@ -48,7 +48,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 255 248 231 } #Cosmic latte
+		color = { 255 248 171 } #Variant of cosmic latte
 		
 		crusade_name = PACIFICATION
 		scripture_name = THE_STARS
@@ -271,7 +271,7 @@ astrotheology = {
 		icon = 59
 		heresy_icon = 60
 		
-		color = { 255 255 128 }
+		color = { 255 205 128 }
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
