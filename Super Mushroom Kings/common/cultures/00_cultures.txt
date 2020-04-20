@@ -7,7 +7,7 @@ scallywag = {
 	pirate = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0 0 0 }
+		color = { 30 30 30 }
 		male_names = {
 			#Canonical
 			Bifun Bobo
@@ -80,55 +80,38 @@ mushroom_kingdom_group = {
 		
 		color = { 255 40 40 }
 		male_names = {
-			#Canonical
-			Chet_Chester Chuck_Charles 
+			#Canonical 
 			Bingo
 			Dane Doe
 			Ed_Edward
-			Fice Fishmael_Ishmael Frail Frost 
-			George Gino Ghiottoad
-			Har_Harry Harry_Harry Heff Henry_Henry Herb Hinopio Hugo
-			Jack Jake
+			Fice Frail Frost 
+			George Ghiottoad
+			Harry_Harry Heff Herb Hinopio
+			Jack
 			Little_Little 
 			Mini Mort_Morton Mush Mushbert_Albert Muss
 			Niff			
-			Perry Pine Pino Pio Plenn Porter Pronto Puff
-			Raz Rip Russ_Russell
+			Pine Plenn Porter Pronto Puff
+			Raz Russ_Russell
 			Scooter
-			Toad Toadbert_Robert Thriff Tony Troy
+			Toad Toadbert_Robert Thriff
 			Zip
 			
 			#Non-canonical
-			Agaric
-			Bisporus
-			Orion
-			Powehi
 			Victoad_Victor
 		}
 		female_names = {
-			#Canonical
-			Bit 
-			Chanterelle
-			Divini 
-			Frail Felissa_Felicity Frost 
+			#Canonical 
+			Chanterelle 
+			Frost 
 			Jolene
-			Kris_Christina
-			Mia Minh Miss_Misty
-			Nancy
-			Peach_Peach
-			Raini Rosalina
+			Minh
+			Raini
 			Tayce Toadette Toadia Toadiko Toadorica Toce Toodles Trini 
 			Vanna 
 			Zess
-			
-			#Non-canonical
-			Banana:0
-			Luna
-			Maple_Maple:10
-			Nectarine:0
-			Starfruit:0
-			Tangerine:0
 		}
+		
 		from_dynasty_suffix = "toad"
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -151,7 +134,7 @@ mushroom_kingdom_group = {
 		color = { 0.8 0.2 0.2 }
 		
 		male_names = {
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Noah Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene_Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Noah Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -542,7 +525,7 @@ delfino_group = {
 	 crab_islands = { # For the purpose of this Mod, this location should be full of Nokis and not just Piantas, French
 		graphical_cultures = { frankishgfx }
 		
-		color = { 1 0 0 }
+		color = { 49 140 231 } #Bleu de France
 		male_names = {
 			Édouard_Edward Érrard Étienne_Stephen Adalbert_Albert Adémar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric
 			Amédée Ancel André_Andrew Angelbert Antoine_Antonius Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry_Aubrey Aymar Barthélémi_Bartolomeus
@@ -635,7 +618,7 @@ delfino_group = {
 	eel_islands = { #Portuguese
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.95 0.88 0.18 }
+		color = { 75 199 207 } #Sea serpent
 		male_names = {
 			Aarão_Aaron Abraão_Abraham Adalberto_Albert Ademar_Ademar Adriano_Adrian Adão_Adam Afonso_Alphonse Agostinho_Augustine Aires Alberto_Albert Aleixandre_Alexander Aloísio_Louis 
 			André_Andrew Anrique_Henry Antero_Andrew António_Antonius Aníbal_Hannibal Arnaldo_Arnold Artur_Arthur Augusto_Augustus 
@@ -706,7 +689,7 @@ delfino_group = {
 	jellyfish_islands = { #Latin
 		graphical_cultures = { frankishgfx }
 		
-		color = { 153 0 36 }
+		color = { 102 2 60 } #Tyrian purple
 		male_names = {
 			Aelagabalus Aelius_Aelius Aemilianus Aemilius Aetius_Ezio Agapitus_Agapito Albinus_Albino Albus Alexander_Alexander Alexius_Alexis Amadeus Anacletus Anastasius_Anastasius Anicius Annius Antadus Anterus Anthemius Antius Antonius_Anthony Antoninus_Anthony Appianus Appius Aratus Arcadius_Arkadios Aulianius Aulimius Aulus Aurelianus_Aurelian Aurianius Auspex Avitus Alethius
 			Balbinus Balbus Barbatus Basiliscus Basilius Benignus_Benignus Bibulus Benedictus_Benedict Belisarius_Belisarius Bonifatius_Bonifacius Brutus Bubo Buteo Britannicus
@@ -780,7 +763,7 @@ delfino_group = {
 	 noki = { # Catch-all for all other Nokis, used Old Frankish names as I'm assuming these Noki are gonna be separated from the rest of the Noki of the Sunshine Isles which would be fitting as this language is uninfluenced by the languages of the Sunshine Isles
 		graphical_cultures = { frankishgfx }
 		
-		color = { 1 56 99 }
+		color = { 119 181 254 } #French sky blue
 		male_names = {
 			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri Avremar Badegisel 
 			Balduin_Baldwin Barnard_Bernard Berald_Berard Bernard_Bernard Berneri Bero Berold Berthefried Bertlin Bertram Bertrand Burchard_Bouchard 
@@ -844,7 +827,7 @@ delfino_group = {
 	 noki_bay = { # Nokis only, please, Occitan
 		graphical_cultures = { frankishgfx }
 		
-		color = { 2 60 103 }
+		color = { 134 96 142 } #French lilac
 		male_names = { 
 			Adhémar_Ademar Adrian_Adrian Acfred_Alfred Aimeric_Aymeric Alberic_Aubrey Albert_Albert Aldebert_Albert Alexandre_Alexander Alexis_Alexis Alias_Helias Anfòs_Alphonse Amalric_Amalric Amaneus Ancelmes 
 			André_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton Audoïn August_Augustus Aurèli_Aurelius Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar
@@ -941,7 +924,7 @@ twilighter_group = {
 	twilighter = {
 		graphical_cultures = { frankish_gfx }
 
-		color = { 222 100 82 }
+		color = { 138 73 107 } #Twilight lavender
 
 		male_names = {
 			# canonical names
@@ -981,14 +964,14 @@ twilighter_group = {
 canonical_human_group = {
 	mario_brothers = { # Mario Brothers special culture to differentiate them and anyone related to them from geting Toad names
 		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx } 
-		color = { 255 0 0 }
+		color = { 205 33 42 } #Italian flag red
 
 		male_names = {
 			# Canonical
 			Mario_Mario:300 "Mario Joe"_Mario Luigi_Luigi:120 "Luigi Bob"_Luigi Waluigi:120 Wario:120
 
 			#Non-canonical
-			Billy_William Marco_Mark Mareeus Rigel
+			Billy_William Marco_Mark Mareeus Pio Rigel Tony Troy
 
 			#Italian filler
 			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
@@ -1027,7 +1010,7 @@ canonical_human_group = {
             Ippolita_Ippolita Isabella_Elizabeth
             Joscella_Joscella
             Laura_Laura Lavinia_Lavinia Leonide_Leonide Letizia_Letizia Lidia_Lidia Livia_Livia Lodovica_Elizabeth Lucia_Lucia Lucinetta_Lucinetta Lucrezia_Lucrezia Maddalena_Magdalena Marcella_Marcella
-			Margherita_Margaret Maria_Maria Mariana_Mariana Marina_Marine Marietta_Mariette Martina_Martina Matilda_Matilda Micaela_Michelle Oria_Oria Paola_Paula Patrizia_Patricia Renata_Renata Ricciarda_Ricarda Silvana_Sylvana
+			Margherita_Margaret Maria_Maria Mariana_Mariana Marina_Marine Marietta_Mariette Martina_Martina Matilda_Matilda Mia Micaela_Michelle Oria_Oria Paola_Paula Patrizia_Patricia Renata_Renata Ricciarda_Ricarda Silvana_Sylvana
 			Sofia_Sophia Stefania_Stephania Tiziana_Tiziana Tomasina_Thomasina
             Valentina_Valentina Violante_Yolanda 
 		}
@@ -1050,9 +1033,66 @@ canonical_human_group = {
 		used_for_random = no
 		allow_in_ruler_designer = no
 	}
+	
+	anglo_mushroomite = { #Try to keep the non-canonical names to fruit and star based names
+		graphical_cultures = { frankishgfx }
+		
+		color = { 231 56 149 } #Royal pink
+		male_names = {
+			#Canonical
+			Alex_Alexander Allie_Alan
+			Bean Billy_William Bird Bob_Robert Brian Buzz
+			Chad Charlie_Charles Chas_Charles Chet_Chester Chris_Christopher Clay Curt
+			Dweezil
+			Elden Elroy Elvin
+			Flit
+			Gary Gene_Eugene
+			Stanley
+			
+			#Non-canonical
+			Apricot
+			Orion
+			Plum Powehi
+		}
+		female_names = {
+			#Canonical
+			Ace Azalea
+			Barb_Barbra Beth_Elizabeth
+			Ella_Eleanor Emi Emily
+			Fay
+			Nina
+			Peach_Peach
+			Rosalina 
+			Tina
+			
+			#Non-canonical
+			Banana
+			Luna
+			Nectarine
+			Starfruit
+			Tangerine
+		}
+		
+		parent = mushroom_kingdom
+
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 
 	new_donk_city_men = {
-		color = { 200 25 25 }
+		color = { 128 128 128 } #Gray
 		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx }
 
 		male_names = {
@@ -1319,7 +1359,7 @@ canonical_human_group = {
 	diamond_city_men = { # 
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 154 197 219 }
+		color = { 154 197 219 } #Diamond
 		
 		male_names = {
 			# Canonical
@@ -1357,7 +1397,7 @@ canonical_human_group = {
 	ouji_men = { # The Edo/Shogun/Feudal Japanese-esque ruler of Diamond City's culture, includes Kat and Ana, and "Ouji" is literally Japanese for "Prince"
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 203 227 240 }
+		color = { 246 214 222 } #Pink diamond
 		
 		male_names = {
 			# Canonical (transcluded from Wario's names and Diamond City's names)
@@ -1503,7 +1543,7 @@ extradimensional_asians = {
 		#Try to make this as Nintendo as possible and not just Japanese
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 0.85 0.85 0.01 }
+		color = { 195 39 43 } #Akabeni (Pure crimson)
 		
 		male_names = {
 			#Nintendo Characters, try to go for names are from human characters, go for the Japanese spelling and if no Japanese spelling than don't use it, and be *only* from video games
@@ -1566,7 +1606,7 @@ movie_group = {
 			Mali:150 Don_Ronald:150 Brad_Bradley:150 Alan_Alan:150 Joseph_Joseph:150 Christopher_Christopher:150 Mark_Mark:150 David_David:150 Fred_Frederick:150 Roland:150 Parker:150 Bob_Robert:150 Fisher:150 Richard:150 Nixon:150 Giani:150 Russo:150 Lance:150 Patt:150
 
 			# Filler
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles_Charles Cyril Christopher_Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -1601,39 +1641,40 @@ movie_group = {
 }
 
 battlefielder_group = {	#Named after military slang, weapon designations, and all that good stuff.
-			graphical_cultures = { frankishgfx }
-		battlefielder = {
-			color = { 0.05 0.05 0.05 }
-			male_names = {
-				Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
-			}
-			female_names = {
-				"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
-			}
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
+	graphical_cultures = { frankishgfx }
+	battlefielder = {
+		color = { 132 132 130 } #Battleship gray
+		male_names = {
+			Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
 		}
+		female_names = {
+			"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
+		}
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
 	}
+}
 	
 goomba_group = {
 		graphical_cultures = { frankishgfx }
 		
 		goomba = { #Generic Goombas
-			color = { 230 153 0 }
+			color = { 149 69 53 } #Chestnut
 			male_names = {
-			Goombario_Mario
+				Goombario_Mario
 			}
-			female_names = {
-				Goombella Goombette
-		}
-
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
-		prefix = no
+				female_names = {
+					Goombella Goombette
+			}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 5
