@@ -78,7 +78,7 @@ mushroom_kingdom_group = {
 	mushroom_kingdom = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 255 40 40 }
+		color = { 255 80 80 }
 		male_names = {
 			#Canonical 
 			Bingo
