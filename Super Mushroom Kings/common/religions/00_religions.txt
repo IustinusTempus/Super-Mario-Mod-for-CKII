@@ -48,7 +48,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 255 255 51 }
+		color = { 255 248 231 } #Cosmic latte
 		
 		crusade_name = PACIFICATION
 		scripture_name = THE_STARS
@@ -96,7 +96,7 @@ astrotheology = {
 		icon = 55
 		heresy_icon = 56
 		
-		color = { 0.25 0.27 0.38 }
+		color = { 0 7 24 } #Opposite of cosmic latte
 		parent = seven_stars
 		
 		crusade_name = PURGE
@@ -138,7 +138,7 @@ astrotheology = {
 		icon = 57
 		heresy_icon = 58
 		
-		color = { 0 0 0 }
+		color = { 22 22 29 } #Eigengrau
 		parent = seven_stars
 		
 		crusade_name = PURGE
@@ -183,7 +183,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 115 170 165 }
+		color = { 137 209 214 } #Color taken from Rosalina's clothing
 		parent = seven_stars
 		
 		crusade_name = PACIFICATION
@@ -387,7 +387,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 115 142 66 }
+		color = { 233 154 107 } #Variant of Desert
 		
 		crusade_name = JIHAD
 		scripture_name = DRY_DRY_RUNES
@@ -431,7 +431,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 115 142 66 }
+		color = { 193 154 107 } #Desert
 		
 		crusade_name = JIHAD
 		scripture_name = DRY_DRY_RUNES
@@ -474,7 +474,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 206 97 57 }
+		color = { 225 169 95 } #Earth yellow
 		
 		crusade_name = PACIFICATION
 		scripture_name = OIL_LAMP_MAINTENANCE
@@ -1375,7 +1375,7 @@ lunatheology = {
 		ai_convert_same_group = 1 #  try to convert if ai_zeal is high
 		ai_convert_other_group = 2 #  always try to convert
 
-		color = { 179 242 255 }
+		color = { 25 25 112 } #Midnight blue
 		
 		crusade_name = LIBERATION
 		scripture_name = THE_LUNAR_TRUTHS
@@ -1417,7 +1417,7 @@ lunatheology = {
 		icon = 69
 		heresy_icon = 70
 		
-		color = { 0.25 0.64 1 }
+		color = { 168 103 107 } #Variant of twilight lavender
 		
 		crusade_name = PACIFICATION
 		scripture_name = IMMORTAL_BELLS
@@ -1457,7 +1457,7 @@ lunatheology = {
 		icon = 69
 		heresy_icon = 70
 		
-		color = { 0.25 0.64 1 }
+		color = { 138 73 107 } #Twilight lavender
 		
 		crusade_name = PACIFICATION
 		scripture_name = IMMORTAL_BELLS

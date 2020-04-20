@@ -78,7 +78,7 @@ mushroom_kingdom_group = {
 	mushroom_kingdom = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 255 80 80 }
+		color = { 255 100 100 }
 		male_names = {
 			#Canonical 
 			Bingo
@@ -185,7 +185,7 @@ dryite_group = {
 	graphical_cultures = { muslimgfx arabicgfx frankishgfx }
 
 	dryite = {
-		color = { 0.1 0.75 0.1 } # Same as Vanilla rendition Bedouin
+		color = { 193 154 107 } #Desert
 
 		male_names = {
 			# Canonical
@@ -262,7 +262,7 @@ yoshi = {
 	yoshi_island = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.06 0.53 0 }
+		color = { 150 113 23 } #Sand dune
 		male_names = {
 			#Canonical
 			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
@@ -1775,7 +1775,7 @@ kremling_group = {
 sarasan = {
 	chaian = { #Chinese culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
-		color = { 250 218 94 }
+		color = { 250 218 94 } #Royal yellow
 
 		male_names = {
 			# Canonical
@@ -1850,7 +1850,7 @@ sarasan = {
 	birabuton = { #Egyptian culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 
-		color = { 237 201 175 }
+		color = { 237 201 175 } #Desert sand
 
 		male_names = {
 		   Aahotep Aaka Aakheperure Aba Adjib Ahmose "Ahmose-Ankh" Akhethetep Akhre Amenemhat Amenemhatankh Amenemnisu Amenemope Amenemopet Amenherkhepshef Amenhotep Amenirdisu Amenmesse Ameny Amka "Amun-her-khepeshef" Amunemopet Amunemwia Amunherkhepeshef Anedjib Anen Ani Ankherfenedjef Ankhersheretef Ankhesenpaaten Ankhhaf Ankhka Ankhmakis Ankhmare Ankhor Antef Anu Aperanat Aperel Astarteherwenemef Auibra Awybre Ay 
@@ -2031,7 +2031,7 @@ sarasan = {
 	awazonian = { #Mayan culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 
-		color = { 115 194 251 }
+		color = { 115 194 251 } #Mayan blue
 		
 		male_names = {
 			Acat "Ah Cimih" "Ah Cizin" "Ah Cacao" "Ah K'in" "Ah K'in Chob" "Ah Mun" "Ah Muzen Cab" "Ah Puch" Akha Alom
