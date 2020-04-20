@@ -271,7 +271,7 @@ astrotheology = {
 		icon = 59
 		heresy_icon = 60
 		
-		color = { 255 205 128 }
+		color = { 255 185 88 }
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
